@@ -1,0 +1,26 @@
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(102, 139, 102);
+  text-align: center;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10%;
+}
+
+nav {
+  padding: 2%;
+  display: flex;
+  justify-content: space-around;
+  margin: 0, auto;
+}
+
+h3 {
+  font-style: oblique;
+  text-align: center;
+}
